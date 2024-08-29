@@ -1,0 +1,15 @@
+D:\gato_alejandroMartinez\gato_alejandroMartinez\bin\Debug\gato_alejandroMartinez.exe.config
+D:\gato_alejandroMartinez\gato_alejandroMartinez\obj\Debug\gato_alejandroMartinez.frmGato.resources
+D:\gato_alejandroMartinez\gato_alejandroMartinez\obj\Debug\gato_alejandroMartinez.Resources.resources
+D:\gato_alejandroMartinez\gato_alejandroMartinez\obj\Debug\gato_alejandroMartinez.vbproj.GenerateResource.Cache
+D:\gato_alejandroMartinez\gato_alejandroMartinez\obj\Debug\gato_alejandroMartinez.xml
+D:\gato_alejandroMartinez\gato_alejandroMartinez\bin\Debug\gato_alejandroMartinez.exe
+D:\gato_alejandroMartinez\gato_alejandroMartinez\bin\Debug\gato_alejandroMartinez.pdb
+D:\gato_alejandroMartinez\gato_alejandroMartinez\bin\Debug\gato_alejandroMartinez.xml
+D:\gato_alejandroMartinez\gato_alejandroMartinez\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\gato_alejandroMartinez\gato_alejandroMartinez\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\gato_alejandroMartinez\gato_alejandroMartinez\obj\Debug\gato_alejandroMartinez.exe
+D:\gato_alejandroMartinez\gato_alejandroMartinez\obj\Debug\gato_alejandroMartinez.pdb
+D:\gato_alejandroMartinez\gato_alejandroMartinez\obj\Debug\gato_alejandroMartinez.vbproj.AssemblyReference.cache
+D:\gato_alejandroMartinez\gato_alejandroMartinez\obj\Debug\gato_alejandroMartinez.vbproj.CoreCompileInputs.cache
+D:\gato_alejandroMartinez\gato_alejandroMartinez\obj\Debug\gato_alejandroMartinez.vbproj.CopyComplete
